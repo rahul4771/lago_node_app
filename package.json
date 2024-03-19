@@ -22,7 +22,7 @@
     "klaviyo-node": "^1.0.6",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.34",
-    "mongoose": "^5.10.9",
+    "mongoose": "^5.13.22",
     "morgan": "~1.9.1",
     "multer": "^1.4.2",
     "mysql": "^2.18.1",
