@@ -30,7 +30,7 @@
     "sequelize": "^6.6.5",
     "shopify-api-node": "^3.6.12",
     "ucfirst": "^1.0.0",
-    "validator": "^13.6.0",
+    "validator": "^13.15.20",
     "winston-daily-rotate-file": "^4.5.5"
   },
   "devDependencies": {
